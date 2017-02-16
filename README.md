@@ -1,0 +1,1 @@
+This is a practice HTML project that I am doing as part of the Odin Project.  I am simply building a page that looks like the Google homepage (it doesn't need to function like the Google homepage).
